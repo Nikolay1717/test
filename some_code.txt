@@ -3,3 +3,4 @@ second code
 third string
 
 print "addition 1"
+print "addition 2"
